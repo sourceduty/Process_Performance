@@ -1,4 +1,4 @@
-![Process Performance](https://github.com/user-attachments/assets/dc9dff99-c068-4404-b53f-8e2ffe113ed9)
+![Process Performance](https://github.com/user-attachments/assets/24348fa3-ff67-444d-87cd-eb7d62925667)
 
 > Measure and improve process performance.
 
